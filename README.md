@@ -1,0 +1,1 @@
+# stanugrapy-termux
